@@ -104,6 +104,7 @@ Made a web page about myself with some interesting growth entrepreneurial indust
 ## Links
 
 ## Screenshots
+![screencapture-file-C-Users-miklo-code-bootcamp-homework-portfolio-code-refactor-index-html-2022-10-07-05_33_34](https://user-images.githubusercontent.com/113649566/194464556-d63a4e70-eb25-4dbb-81ba-1dddfa150fe6.png)
 
 
 
